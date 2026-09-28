@@ -1,0 +1,12 @@
+*.asv
+*.autosave
+*.m~
+*.mat
+slprj/
+*.slxc
+*.fig
+codegen/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
